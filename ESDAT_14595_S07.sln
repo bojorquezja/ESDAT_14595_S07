@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcpos", "calcpos\calcpos.csproj", "{8CD53FDF-4D76-4762-AF1D-DEE0D5DABE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD53FDF-4D76-4762-AF1D-DEE0D5DABE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD53FDF-4D76-4762-AF1D-DEE0D5DABE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD53FDF-4D76-4762-AF1D-DEE0D5DABE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD53FDF-4D76-4762-AF1D-DEE0D5DABE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D47CDCFA-7D52-40DA-949C-A58C66C44E71}
+	EndGlobalSection
+EndGlobal
